@@ -43,7 +43,7 @@ public class Juego {
         JButton reiniciar = new JButton("Reiniciar");
         
        
-        JFrame ventana = new JFrame("Chiaroto || Prandi || Moreno || Vicario");
+        JFrame ventana = new JFrame("Chiarotto || Programacion Concurrente");
         ventana.setSize(390, 520);
         ventana.setLayout(null);
         ventana.setVisible(true);
